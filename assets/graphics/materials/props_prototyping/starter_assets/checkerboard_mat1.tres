@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cwkm26x5prquy"]
+
+[ext_resource type="Texture2D" uid="uid://bbg6dqyyeehd7" path="res://assets/graphics/textures/starter_assets/kenney-dark-grey-checkerboard.png" id="1_sj1ej"]
+
+[resource]
+albedo_texture = ExtResource("1_sj1ej")
+uv1_scale = Vector3(0.5, 0.5, 0.5)
+uv1_triplanar = true
+uv1_world_triplanar = true

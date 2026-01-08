@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://vqhjo8p1ycbo"]
+
+[ext_resource type="PackedScene" uid="uid://byavlpj8m0opo" path="res://assets/graphics/meshes/characters/YBot/YBot.fbx" id="1_kjvb1"]
+
+[node name="SetupScene" type="Node" unique_id=2075332283]
+
+[node name="YBot" parent="." unique_id=179751187 instance=ExtResource("1_kjvb1")]
+
+[editable path="YBot"]
